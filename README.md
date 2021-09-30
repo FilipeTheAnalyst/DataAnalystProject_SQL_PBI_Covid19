@@ -1,7 +1,16 @@
-# DataAnalystProject_SQL_PBI_Covid19
-Repository for files related to Covid 19 data analysis project in SQL and Power BI
+# Covid 19 Data Analysis
+In this project I did an analysis and visualization on the Covid 19 dataset.
+The dataset is collected at this [website](https://ourworldindata.org/covid-deaths) and imported as a SQL Database where I used a couple of statements to select information that is supporting my analysis. The visualizations were created in Power BI connected to the SQL Database.
 
-Business Problem
+The complete description of the project can be accessed [here](https://github.com/FilipeTheAnalyst/DataAnalystProject_SQL_PBI_Covid19/blob/main/Covid%2019%20Portfolio%20Project.docx).
 
-“As a data analyst working at a news company you are asked to visualize data that will help readers understand the behavior of Covid 19 virus around the world (total cases, total deaths, population percentage infected, death percentage).
-You also know that there is an interest in details about the current distribution of vaccinations around the world and the percentage of people fully vaccinated.”
+The goal is to visualize relevant statistics regarding covid 19 cases and vaccinations since the beginning of 2020.
+
+Here are the main metrics (total cases, deaths, population percentage infected by country/continent, death percentage)
+
+<img width="489" alt="Covid 19" src="https://user-images.githubusercontent.com/61323876/135412586-58f81567-46e9-497f-8fc4-5c17ea1f13a7.png">
+<img width="490" alt="Covid 19 Vaccinations" src="https://user-images.githubusercontent.com/61323876/135412247-8ce0b9ec-f7cb-4856-a4df-b2d0f599ad0c.png">
+
+## Dataset
+* Countries around the world with respective population, total cases, new cases, deaths, vaccinations per day.
+
