@@ -9,7 +9,7 @@ The complete description of the project can be accessed [here](https://github.co
 
 The goal is to visualize relevant statistics regarding covid 19 cases and vaccinations since the beginning of 2020.
 
-Here are the main metrics (total cases, deaths, population percentage infected by country/continent, death percentage)
+Here are the main metrics: total cases, deaths, population percentage infected by country/continent, death percentage.
 
 __Click [here](https://app.powerbi.com/view?r=eyJrIjoiY2Y0YjlkOGMtMDAxNC00MjJmLTg2ODEtNjA5ODIwOTg4YTQ0IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection) to open the dashboard and try it out!__
 
